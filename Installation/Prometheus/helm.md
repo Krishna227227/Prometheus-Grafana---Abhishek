@@ -1,3 +1,5 @@
+sudo snap install helm --classic
+
 # Install using Helm
 
 ## Add helm repo
